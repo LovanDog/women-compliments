@@ -4,8 +4,8 @@ from bs4 import BeautifulSoup
 import random
 from telethon import TelegramClient
 
-api_id = 10611839
-api_hash = 'faa6a69e15bcfe74c60e9fca06d85540'
+api_id = // your id 
+api_hash = '//your hash'
 
 compl = []
 print('Сбор комплиментов..')
